@@ -1,4 +1,4 @@
-/source/webapp/
+
 *.sqlite3
 venv
 virtualenv
